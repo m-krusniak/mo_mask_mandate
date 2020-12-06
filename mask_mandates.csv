@@ -1,116 +1,116 @@
-county,county_seat,population,mandate,days_since_mandate
-Adair,Kirksville,"25,607",11/25/2020,11
-Andrew,Savannah,"17,291",12/6/2020,0
-Atchison,Rock Port,"5,685",12/6/2020,0
-Audrain,Mexico,"25,529",12/6/2020,0
-Barry,Cassville,"35,597",12/6/2020,0
-Barton,Lamar,"12,402",12/6/2020,0
-Bates,Butler,"17,049",12/6/2020,0
-Benton,Warsaw,"19,056",12/6/2020,0
-Bollinger,Marble Hill,"12,363",12/6/2020,0
-Boone,Columbia,"162,642",11/25/2020,11
-Buchanan,Saint Joseph,"89,201",12/6/2020,0
-Butler,Poplar Bluff,"42,794",12/6/2020,0
-Caldwell,Kingston,"9,424",12/6/2020,0
-Callaway,Fulton,"44,332",12/6/2020,0
-Camden,Camdenton,"44,002",12/6/2020,0
-Cape Girardeau,Jackson,"75,674",10/27/2020,40
-Carroll,Carrollton,"9,295",12/6/2020,0
-Carter,Van Buren,"6,265",12/6/2020,0
-Cass,Harrisonville,"99,478",12/6/2020,0
-Cedar,Stockton,"13,982",12/6/2020,0
-Chariton,Keytesville,"7,831",12/6/2020,0
-Christian,Ozark,"77,422",12/6/2020,0
-Clark,Kahoka,"7,139",12/6/2020,0
-Clay,Liberty,"221,939",7/14/2020,145
-Clinton,Plattsburg,"20,743",12/6/2020,0
-Cole,Jefferson City,"75,990",12/6/2020,0
-Cooper,Boonville,"17,601",12/6/2020,0
-Crawford,Steelville,"24,696",12/6/2020,0
-Dade,Greenfield,"7,883",12/6/2020,0
-Dallas,Buffalo,"16,777",12/6/2020,0
-Daviess,Gallatin,"8,433",12/6/2020,0
-DeKalb,Maysville,"12,892",12/6/2020,0
-Dent,Salem,"15,657",12/6/2020,0
-Douglas,Ava,"13,684",12/6/2020,0
-Dunklin,Kennett,"31,953",12/6/2020,0
-Franklin,Union,"101,492",11/20/2020,16
-Gasconade,Hermann,"15,222",12/6/2020,0
-Gentry,Albany,"6,738",12/6/2020,0
-Greene,Springfield,"275,174",7/16/2020,143
-Grundy,Trenton,"10,261",12/6/2020,0
-Harrison,Bethany,"8,957",12/6/2020,0
-Henry,Clinton,"22,272",12/6/2020,0
-Hickory,Hermitage,"9,627",12/6/2020,0
-Holt,Oregon,"4,912",12/6/2020,0
-Howard,Fayette,"10,144",12/6/2020,0
-Howell,West Plains,"40,400",12/6/2020,0
-Iron,Ironton,"10,630",12/6/2020,0
-Jackson,Independence,"674,158",11/18/2020,18
-Jasper,Carthage,"117,404",11/19/2020,17
-Jefferson,Hillsboro,"218,733",11/27/2020,9
-Johnson,Warrensburg,"52,595",10/12/2020,55
-Knox,Edina,"4,131",12/6/2020,0
-Laclede,Lebanon,"35,571",12/6/2020,0
-Lafayette,Lexington,"33,381",12/6/2020,0
-Lawrence,Mount Vernon,"38,634",12/6/2020,0
-Lewis,Monticello,"10,211",12/6/2020,0
-Lincoln,Troy,"52,566",12/6/2020,0
-Linn,Linneus,"12,761",12/6/2020,0
-Livingston,Chillicothe,"15,195",12/6/2020,0
-Macon,Macon,"15,566",12/6/2020,0
-Madison,Fredericktown,"12,226",12/6/2020,0
-Maries,Vienna,"9,176",12/6/2020,0
-Marion,Palmyra,"28,781",12/6/2020,0
-McDonald,Pineville,"23,083",12/6/2020,0
-Mercer,Princeton,"3,785",12/6/2020,0
-Miller,Tuscumbia,"24,748",12/6/2020,0
-Mississippi,Charleston,"14,358",12/6/2020,0
-Moniteau,California,"15,607",12/6/2020,0
-Monroe,Paris,"8,840",12/6/2020,0
-Montgomery,Montgomery City,"12,236",12/6/2020,0
-Morgan,Versailles,"20,565",12/6/2020,0
-New Madrid,New Madrid,"18,956",12/6/2020,0
-Newton,Neosho,"58,114",12/6/2020,0
-Nodaway,Maryville,"23,370",12/6/2020,0
-Oregon,Alton,"10,881",12/6/2020,0
-Osage,Linn,"13,878",12/6/2020,0
-Ozark,Gainesville,"9,723",12/6/2020,0
-Pemiscot,Caruthersville,"18,296",12/6/2020,0
-Perry,Perryville,"18,971",12/6/2020,0
-Pettis,Sedalia,"42,201",12/6/2020,0
-Phelps,Rolla,"45,156",11/27/2020,9
-Pike,Bowling Green,"18,516",12/6/2020,0
-Platte,Platte City,"89,322",12/6/2020,0
-Polk,Bolivar,"31,137",12/6/2020,0
-Pulaski,Waynesville,"52,274",12/6/2020,0
-Putnam,Unionville,"4,979",12/6/2020,0
-Ralls,New London,"10,167",12/6/2020,0
-Randolph,Huntsville,"25,414",12/6/2020,0
-Ray,Richmond,"23,494",12/6/2020,0
-Reynolds,Centerville,"6,696",12/6/2020,0
-Ripley,Doniphan,"14,100",12/6/2020,0
-Saint Charles,Saint Charles,"360,485",12/6/2020,0
-Saint Clair,Osceola,"9,805",12/6/2020,0
-Saint Francois,Farmington,"65,359",12/6/2020,0
-Saint Louis,Clayton,"1,000,438",11/18/2020,18
-Saint Louis City,St. Louis,"319,294",11/14/2020,22
-Ste. Genevieve,Ste. Genevieve,"18,145",12/6/2020,0
-Saline,Marshall,"23,370",12/6/2020,0
-Schuyler,Lancaster,"4,431",12/6/2020,0
-Scotland,Memphis,"4,843",12/6/2020,0
-Scott,Benton,"39,191",12/6/2020,0
-Shannon,Eminence,"8,441",12/6/2020,0
-Shelby,Shelbyville,"6,373",12/6/2020,0
-Stoddard,Bloomfield,"29,968",12/6/2020,0
-Stone,Galena,"32,202",12/6/2020,0
-Sullivan,Milan,"6,714",12/6/2020,0
-Taney,Forsyth,"51,675",12/6/2020,0
-Texas,Houston,"26,008",12/6/2020,0
-Vernon,Nevada,"21,159",12/6/2020,0
-Warren,Warrenton,"32,513",12/6/2020,0
-Washington,Potosi,"25,195",12/6/2020,0
-Wayne,Greenville,"13,521",12/6/2020,0
-Webster,Marshfield,"36,202",12/6/2020,0
-Worth,Grant City,"2,171",12/6/2020,0
-Wright,Hartville,"18,815",12/6/2020,0
+county,county_seat,population,mandate,days_since_mandate,size,density
+Adair,Kirksville,"25,607",11/25/2020,11,568,45.08274648
+Andrew,Savannah,"17,291",12/6/2020,0,435,39.74942529
+Atchison,Rock Port,"5,685",12/6/2020,0,545,10.43119266
+Audrain,Mexico,"25,529",12/6/2020,0,693,36.83838384
+Barry,Cassville,"35,597",12/6/2020,0,779,45.6957638
+Barton,Lamar,"12,402",12/6/2020,0,594,20.87878788
+Bates,Butler,"17,049",12/6/2020,0,848,20.10495283
+Benton,Warsaw,"19,056",12/6/2020,0,706,26.99150142
+Bollinger,Marble Hill,"12,363",12/6/2020,0,621,19.90821256
+Boone,Columbia,"162,642",11/25/2020,11,685,237.4335766
+Buchanan,Saint Joseph,"89,201",12/6/2020,0,410,217.5634146
+Butler,Poplar Bluff,"42,794",12/6/2020,0,698,61.30945559
+Caldwell,Kingston,"9,424",12/6/2020,0,429,21.96736597
+Callaway,Fulton,"44,332",12/6/2020,0,839,52.83909416
+Camden,Camdenton,"44,002",12/6/2020,0,655,67.17862595
+Cape Girardeau,Jackson,"75,674",10/27/2020,40,579,130.6977547
+Carroll,Carrollton,"9,295",12/6/2020,0,695,13.37410072
+Carter,Van Buren,"6,265",12/6/2020,0,508,12.33267717
+Cass,Harrisonville,"99,478",12/6/2020,0,699,142.3147353
+Cedar,Stockton,"13,982",12/6/2020,0,476,29.37394958
+Chariton,Keytesville,"7,831",12/6/2020,0,756,10.35846561
+Christian,Ozark,"77,422",12/6/2020,0,563,137.5168739
+Clark,Kahoka,"7,139",12/6/2020,0,507,14.08086785
+Clay,Liberty,"221,939",7/14/2020,145,396,560.4520202
+Clinton,Plattsburg,"20,743",12/6/2020,0,419,49.50596659
+Cole,Jefferson City,"75,990",12/6/2020,0,392,193.8520408
+Cooper,Boonville,"17,601",12/6/2020,0,565,31.15221239
+Crawford,Steelville,"24,696",12/6/2020,0,743,33.23822342
+Dade,Greenfield,"7,883",12/6/2020,0,490,16.0877551
+Dallas,Buffalo,"16,777",12/6/2020,0,542,30.95387454
+Daviess,Gallatin,"8,433",12/6/2020,0,567,14.87301587
+DeKalb,Maysville,"12,892",12/6/2020,0,424,30.40566038
+Dent,Salem,"15,657",12/6/2020,0,754,20.76525199
+Douglas,Ava,"13,684",12/6/2020,0,815,16.79018405
+Dunklin,Kennett,"31,953",12/6/2020,0,546,58.52197802
+Franklin,Union,"101,492",11/20/2020,16,922,110.0780911
+Gasconade,Hermann,"15,222",12/6/2020,0,520,29.27307692
+Gentry,Albany,"6,738",12/6/2020,0,492,13.69512195
+Greene,Springfield,"275,174",7/16/2020,143,675,407.6651852
+Grundy,Trenton,"10,261",12/6/2020,0,436,23.53440367
+Harrison,Bethany,"8,957",12/6/2020,0,725,12.35448276
+Henry,Clinton,"22,272",12/6/2020,0,702,31.72649573
+Hickory,Hermitage,"9,627",12/6/2020,0,399,24.12781955
+Holt,Oregon,"4,912",12/6/2020,0,462,10.63203463
+Howard,Fayette,"10,144",12/6/2020,0,466,21.76824034
+Howell,West Plains,"40,400",12/6/2020,0,928,43.53448276
+Iron,Ironton,"10,630",12/6/2020,0,551,19.29219601
+Jackson,Independence,"674,158",11/18/2020,18,605,1114.310744
+Jasper,Carthage,"117,404",11/19/2020,17,640,183.44375
+Jefferson,Hillsboro,"218,733",11/27/2020,9,657,332.9269406
+Johnson,Warrensburg,"52,595",10/12/2020,55,831,63.2912154
+Knox,Edina,"4,131",12/6/2020,0,506,8.164031621
+Laclede,Lebanon,"35,571",12/6/2020,0,766,46.43733681
+Lafayette,Lexington,"33,381",12/6/2020,0,629,53.06995231
+Lawrence,Mount Vernon,"38,634",12/6/2020,0,613,63.02446982
+Lewis,Monticello,"10,211",12/6/2020,0,505,20.21980198
+Lincoln,Troy,"52,566",12/6/2020,0,630,83.43809524
+Linn,Linneus,"12,761",12/6/2020,0,620,20.58225806
+Livingston,Chillicothe,"15,195",12/6/2020,0,535,28.40186916
+Macon,Macon,"15,566",12/6/2020,0,804,19.36069652
+Madison,Fredericktown,"12,226",12/6/2020,0,497,24.59959759
+Maries,Vienna,"9,176",12/6/2020,0,528,17.37878788
+Marion,Palmyra,"28,781",12/6/2020,0,438,65.71004566
+McDonald,Pineville,"23,083",12/6/2020,0,540,42.7462963
+Mercer,Princeton,"3,785",12/6/2020,0,454,8.337004405
+Miller,Tuscumbia,"24,748",12/6/2020,0,592,41.80405405
+Mississippi,Charleston,"14,358",12/6/2020,0,413,34.76513317
+Moniteau,California,"15,607",12/6/2020,0,417,37.42685851
+Monroe,Paris,"8,840",12/6/2020,0,646,13.68421053
+Montgomery,Montgomery City,"12,236",12/6/2020,0,539,22.7012987
+Morgan,Versailles,"20,565",12/6/2020,0,598,34.38963211
+New Madrid,New Madrid,"18,956",12/6/2020,0,678,27.95870206
+Newton,Neosho,"58,114",12/6/2020,0,626,92.83386581
+Nodaway,Maryville,"23,370",12/6/2020,0,877,26.64766249
+Oregon,Alton,"10,881",12/6/2020,0,792,13.73863636
+Osage,Linn,"13,878",12/6/2020,0,606,22.9009901
+Ozark,Gainesville,"9,723",12/6/2020,0,747,13.01606426
+Pemiscot,Caruthersville,"18,296",12/6/2020,0,493,37.11156187
+Perry,Perryville,"18,971",12/6/2020,0,475,39.93894737
+Pettis,Sedalia,"42,201",12/6/2020,0,685,61.60729927
+Phelps,Rolla,"45,156",11/27/2020,9,673,67.09658247
+Pike,Bowling Green,"18,516",12/6/2020,0,673,27.51263001
+Platte,Platte City,"89,322",12/6/2020,0,420,212.6714286
+Polk,Bolivar,"31,137",12/6/2020,0,637,48.88069074
+Pulaski,Waynesville,"52,274",12/6/2020,0,547,95.56489945
+Putnam,Unionville,"4,979",12/6/2020,0,518,9.611969112
+Ralls,New London,"10,167",12/6/2020,0,471,21.58598726
+Randolph,Huntsville,"25,414",12/6/2020,0,482,52.72614108
+Ray,Richmond,"23,494",12/6/2020,0,570,41.21754386
+Reynolds,Centerville,"6,696",12/6/2020,0,811,8.25647349
+Ripley,Doniphan,"14,100",12/6/2020,0,630,22.38095238
+Saint Charles,Saint Charles,"360,485",12/6/2020,0,561,642.5757576
+Saint Clair,Osceola,"9,805",12/6/2020,0,677,14.48301329
+Saint Francois,Farmington,"65,359",12/6/2020,0,450,145.2422222
+Saint Louis,Clayton,"1,000,438",11/18/2020,18,508,1969.366142
+Saint Louis City,St. Louis,"319,294",11/14/2020,22,61.9,5158.22294
+Ste. Genevieve,Ste. Genevieve,"18,145",12/6/2020,0,502,36.14541833
+Saline,Marshall,"23,370",12/6/2020,0,756,30.91269841
+Schuyler,Lancaster,"4,431",12/6/2020,0,308,14.38636364
+Scotland,Memphis,"4,843",12/6/2020,0,438,11.05707763
+Scott,Benton,"39,191",12/6/2020,0,421,93.09026128
+Shannon,Eminence,"8,441",12/6/2020,0,"1,004",8.407370518
+Shelby,Shelbyville,"6,373",12/6/2020,0,501,12.72055888
+Stoddard,Bloomfield,"29,968",12/6/2020,0,827,36.23700121
+Stone,Galena,"32,202",12/6/2020,0,463,69.55075594
+Sullivan,Milan,"6,714",12/6/2020,0,651,10.31336406
+Taney,Forsyth,"51,675",12/6/2020,0,632,81.76424051
+Texas,Houston,"26,008",12/6/2020,0,"1,179",22.05937235
+Vernon,Nevada,"21,159",12/6/2020,0,834,25.3705036
+Warren,Warrenton,"32,513",12/6/2020,0,432,75.26157407
+Washington,Potosi,"25,195",12/6/2020,0,760,33.15131579
+Wayne,Greenville,"13,521",12/6/2020,0,761,17.7674113
+Webster,Marshfield,"36,202",12/6/2020,0,593,61.04890388
+Worth,Grant City,"2,171",12/6/2020,0,266,8.161654135
+Wright,Hartville,"18,815",12/6/2020,0,682,27.58797654
